@@ -1,3 +1,3 @@
 ﻿# Flying Things WebGL Game
 Simple 3D game made with Unity Engine
-Made for fulfilling Unity Junior Programmer Pathway requirement
+Made for studying and get along with Unity Game Engine
